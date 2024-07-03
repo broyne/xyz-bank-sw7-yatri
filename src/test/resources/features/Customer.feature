@@ -19,7 +19,7 @@ Feature: Customer  option working successfully
     And I search customer that i have created
     And I click on login button
     And I click on deposit Tab
-    And I enter amount 100
+    And I enter amount 10000
     And I click on deposit button
     Then I verify message Deposit Successful
 
